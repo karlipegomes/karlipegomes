@@ -1,8 +1,6 @@
 ### Hi there 👋, my name is Carlos Felipe, better known as Karlipe. I am a Linux fanboy, fan of Technology, passionate in Infrastructure and Cloud, and also a DJ in my spare time.
 
-<p align="center">
 ![sre](/sysadmin.png)
-</p>
 
 - 🔭 I’m currently working on Government Education Agency
 - 🌱 I’m currently learning Ansible, K8s, Openshift and Foreman/Katello(Satellite)
