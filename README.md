@@ -6,7 +6,6 @@ My name is Carlos Felipe, better known as Karlipe. I am a Linux fanboy, fan of T
 - 🌱 I’m currently learning Ansible, K8s, Openshift and Foreman/Katello(Satellite)
 - 👯 I’m looking to collaborate on linux, network, infrastructure architecture
 - 💬 Ask me about Linux, Infrastructure, Djing, 
-- 📫 How to reach me: karlipe@cringerlabs.com
 - ⚡ Fun fact: huge fan of Cooking TV Shows, my Mexican food is the best so far and I love beaches and PsyTrance Festivals.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/karlipegomes)](https://github.com/karlipegomes)
