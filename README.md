@@ -1,22 +1,27 @@
-### Karlipe Gomes · Founder @ StaffOps · Principal Platform Engineer
+### Hi there 👋
 
-Platform engineering, observability and SRE: building it at work, opening it up at StaffOps, and teaching it at StaffOps Mentoring. Based in Fortaleza 🇧🇷, DJ in my spare time.
+My name is Carlos Felipe, better known as Karlipe. I am a Linux fanboy, passionate about Infrastructure, Platform Engineering and Cloud Native, and also a DJ in my spare time.
 
-- 🚀 **[StaffOps](https://github.com/StaffOps)**: open-source platform & observability tooling (Helm charts, OpenTelemetry, anomaly detection)
-- 🎓 **[StaffOps Mentoring](https://github.com/StaffOps-Mentoring)**: hands-on, *verifiable* labs, Linux → Docker → CI/CD → Kubernetes, at [mentoria.staffops.space](https://mentoria.staffops.space)
+- 🚀 **Founder of [StaffOps](https://github.com/StaffOps)**: platform engineering, observability and SRE in the open (Helm charts, OpenTelemetry libs, anomaly detection, Grafana plugins, maturity scorecards)
+- 🎓 **[StaffOps Mentoring](https://github.com/StaffOps-Mentoring)**: hands-on, *verifiable* labs to mentor people into infrastructure: Linux, Docker, CI/CD and Kubernetes, at [mentoria.staffops.space](https://mentoria.staffops.space)
 - 🏗️ **Principal Platform Engineer** at a self-service analytics company
-
-💬 Ask me about Linux, Kubernetes, platform engineering and mentoring · ⚡ yoga, cooking shows, beaches and PsyTrance
+- 👯 I'm looking to collaborate on Linux, networking, cloud native and observability
+- 💬 Ask me about Linux, K8s, platform engineering, mentoring, Djing
+- ⚡ Fun fact: Yoga Buddy, huge fan of Cooking TV Shows, my Mexican food is the best so far and I love beaches and PsyTrance Festivals.
 
 <details>
 <summary>🇧🇷 Em português</summary>
 
-Sou Carlos Felipe, mais conhecido como Karlipe: engenharia de plataforma, observabilidade e SRE. Construo no trabalho, abro em código na StaffOps e ensino na StaffOps Mentoring. Moro em Fortaleza e sou DJ nas horas vagas.
+Sou Carlos Felipe, mais conhecido como Karlipe: fã de Linux, apaixonado por infraestrutura, engenharia de plataforma e cloud native, e DJ nas horas vagas.
 
-- 🚀 **[StaffOps](https://github.com/StaffOps)**: ferramentas de plataforma e observabilidade em código aberto
-- 🎓 **[StaffOps Mentoring](https://github.com/StaffOps-Mentoring)**: labs práticos e *verificáveis*, de Linux a Kubernetes, em [mentoria.staffops.space](https://mentoria.staffops.space)
+- 🚀 **Fundador da [StaffOps](https://github.com/StaffOps)**: engenharia de plataforma, observabilidade e SRE em código aberto
+- 🎓 **[StaffOps Mentoring](https://github.com/StaffOps-Mentoring)**: labs práticos e *verificáveis* para mentoria em infraestrutura (Linux, Docker, CI/CD e Kubernetes), em [mentoria.staffops.space](https://mentoria.staffops.space)
 - 🏗️ **Principal Platform Engineer** numa empresa de analytics self-service
+- 💬 Pode me perguntar sobre Linux, K8s, engenharia de plataforma, mentoria e discotecagem
 
 </details>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cfgomes/) [![StaffOps](https://img.shields.io/badge/StaffOps-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StaffOps) [![StaffOps Mentoring](https://img.shields.io/badge/StaffOps_Mentoring-f69f2d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StaffOps-Mentoring)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/karlipegomes)](https://github.com/karlipegomes)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cfgomes/)](https://www.linkedin.com/in/cfgomes/)
+[![StaffOps Badge](https://img.shields.io/badge/-StaffOps-111?style=flat-square&logo=Github&logoColor=white)](https://github.com/StaffOps)
+[![StaffOps Mentoring Badge](https://img.shields.io/badge/-StaffOps%20Mentoring-f69f2d?style=flat-square&logo=Github&logoColor=white)](https://github.com/StaffOps-Mentoring)
