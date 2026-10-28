@@ -8,7 +8,7 @@ My name is Carlos Felipe, better known as Karlipe. I am a Linux fanboy, passiona
 
 #### 🚀 [StaffOps](https://github.com/StaffOps)
 
-An open-source suite of operational tooling for Kubernetes platforms, born from day-to-day platform and SRE work: the things I wished existed, built to be reused.
+An open-source suite of operational tooling for Kubernetes platforms, born from day-to-day platform and SRE work: the things I wished existed, built to be reused. Portal: [staffops.github.io](https://staffops.github.io)
 
 Multi-agent ChatOps for AWS/K8s ops ([aigent-squad](https://github.com/StaffOps/aigent-squad)), OpenTelemetry instrumentation libs ([otel-libs](https://github.com/StaffOps/otel-libs)), Go + ML anomaly detection for Kubernetes ([anomaly-detection](https://github.com/StaffOps/anomaly-detection)) and a 0–100 app maturity score ([maturity-score-card](https://github.com/StaffOps/maturity-score-card)).
 
