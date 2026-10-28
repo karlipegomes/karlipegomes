@@ -6,9 +6,9 @@ My name is Carlos Felipe, better known as Karlipe. I am a Linux fanboy, passiona
 
 **Principal Platform Engineer** at an Analytics Company & **StaffOps Founder**.
 
-#### 🚀 [StaffOps](https://github.com/StaffOps)
+#### 🚀 [StaffOps](https://github.com/StaffOps) · [Portal](https://staffops.github.io)
 
-An open-source suite of operational tooling for Kubernetes platforms, born from day-to-day platform and SRE work: the things I wished existed, built to be reused. Portal: [staffops.github.io](https://staffops.github.io)
+An open-source suite of operational tooling for Kubernetes platforms, born from day-to-day platform and SRE work: the things I wished existed, built to be reused.
 
 Multi-agent ChatOps for AWS/K8s ops ([aigent-squad](https://github.com/StaffOps/aigent-squad)), OpenTelemetry instrumentation libs ([otel-libs](https://github.com/StaffOps/otel-libs)), Go + ML anomaly detection for Kubernetes ([anomaly-detection](https://github.com/StaffOps/anomaly-detection)) and a 0–100 app maturity score ([maturity-score-card](https://github.com/StaffOps/maturity-score-card)).
 
@@ -16,7 +16,7 @@ Multi-agent ChatOps for AWS/K8s ops ([aigent-squad](https://github.com/StaffOps/
 
 A mentoring program for people moving into infrastructure, DevOps and SRE, built on hands-on labs that are **verifiable**: each lab sets up a broken scenario, you fix it, and a script checks your work item by item, the way production would.
 
-Tracks: **Linux** (RHCSA-level, 147 labs) → **Docker** → **CI/CD** with GitHub Actions → **Kubernetes**.
+Tracks: **Linux** (LFCS/RHCSA-level, 147 labs) → **Docker** → **CI/CD** with GitHub Actions → **Kubernetes**.
 
 #### 🙋 About me
 
