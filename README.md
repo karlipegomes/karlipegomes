@@ -21,7 +21,4 @@ Sou Carlos Felipe, mais conhecido como Karlipe: fã de Linux, apaixonado por inf
 
 </details>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/karlipegomes)](https://github.com/karlipegomes)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cfgomes/)](https://www.linkedin.com/in/cfgomes/)
-[![StaffOps Badge](https://img.shields.io/badge/-StaffOps-111?style=flat-square&logo=Github&logoColor=white)](https://github.com/StaffOps)
-[![StaffOps Mentoring Badge](https://img.shields.io/badge/-StaffOps%20Mentoring-f69f2d?style=flat-square&logo=Github&logoColor=white)](https://github.com/StaffOps-Mentoring)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cfgomes/) [![StaffOps](https://img.shields.io/badge/StaffOps-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StaffOps) [![StaffOps Mentoring](https://img.shields.io/badge/StaffOps_Mentoring-f69f2d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StaffOps-Mentoring)
