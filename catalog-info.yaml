@@ -1,0 +1,31 @@
+# Backstage catalog: Domain (GitHub org) -> System (this repo) -> Component(s).
+# Names aligned with Dependency-Track (StaffOps/homelab-gitops helm-charts/argo-events/image-scan/catalog.yaml).
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: karlipegomes
+  title: karlipegomes
+  description: "karlipegomes (karlipegomes)"
+  annotations:
+    github.com/project-slug: karlipegomes/karlipegomes
+  links:
+    - url: https://github.com/karlipegomes/karlipegomes
+      title: Repository
+      icon: github
+spec:
+  owner: user:karlipegomes
+  domain: karlipegomes
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: karlipegomes
+  title: karlipegomes
+  description: "karlipegomes (karlipegomes)"
+  annotations:
+    github.com/project-slug: karlipegomes/karlipegomes
+spec:
+  type: documentation
+  lifecycle: production
+  owner: user:karlipegomes
+  system: karlipegomes
