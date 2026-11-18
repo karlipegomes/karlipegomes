@@ -8,6 +8,7 @@ metadata:
   description: "karlipegomes (karlipegomes)"
   annotations:
     github.com/project-slug: karlipegomes/karlipegomes
+  tags: [github-profile, markdown]
   links:
     - url: https://github.com/karlipegomes/karlipegomes
       title: Repository
@@ -24,6 +25,7 @@ metadata:
   description: "karlipegomes (karlipegomes)"
   annotations:
     github.com/project-slug: karlipegomes/karlipegomes
+  tags: [markdown]
 spec:
   type: documentation
   lifecycle: production
